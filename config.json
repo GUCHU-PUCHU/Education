@@ -10,17 +10,17 @@
     "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
-    "id": "61558014946967",
+    "id": "100071575183469",
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Kairu pogi",
     "PREFIX": "/",
     "anonymous": true,
     "ADMINBOT": [
-        "61558014946967",
-        "100091459040153"
+        "100071575183469",
+        ""
     ],
-    "AppStateEncryption": true,
+    "AppStateEncryption": false,
     "OWNER": "Eugene Aguilar",
     "AGE": "N/A",
     "GENDER": "Male",
